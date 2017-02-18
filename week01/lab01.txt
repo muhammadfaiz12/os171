@@ -21,3 +21,4 @@ drwxr-xr-x  2 muhammad.faiz52 StafCS 4096 Feb 16 22:09 week09
 drwxr-xr-x  2 muhammad.faiz52 StafCS 4096 Feb 16 22:10 week10
 drwxr-xr-x  2 muhammad.faiz52 StafCS 4096 Feb 16 22:11 xtra
 /home/fasilkom/mahasiswa/m/muhammad.faiz52/os171/week01
+Today is 18 Feb 2017 at 14:04:33

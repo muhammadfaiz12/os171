@@ -1,0 +1,17 @@
+Week:w01-140214-StartTime:10-CategoryCode:DS-About : Introduction to Copyright and Scripting from: Lecturer
+Week:w01-140214-StartTime:10-CategoryCode:DS-About : Introduction to Copyright and Scripting from: Lecturer
+Week:w01-140214-StartTime:10-CategoryCode:DS-About : Introduction to Copyright and Scripting from: Lecturer
+Week:w01-140214-StartTime:10-CategoryCode:DS-About : Introduction to Copyright and Scripting from: Lecturer
+Week:w01-160214-StartTime:10-CategoryCode:DS-About : Scripting and CommandLine from: Lecturer
+Week:w01-160214-StartTime:10-CategoryCode:DS-About : Scripting and CommandLine from: Lecturer
+Week:w01-160214-StartTime:10-CategoryCode:DS-About : Scripting and CommandLine from: Lecturer
+Week:w01-160214-StartTime:10-CategoryCode:DS-About : Scripting and CommandLine from: Lecturer
+Week:w01-160214-StartTime:22-CategoryCode:PS-About : LabWeek01
+Week:w01-160214-StartTime:22-CategoryCode:PS-About : LabWeek01
+Week:w01-160214-StartTime:22-CategoryCode:PS-About : LabWeek01 first encouter with error 403
+Week:w01-170214-StartTime:22-CategoryCode:PS-About : LabWeek01 still trying to solve error 403
+Week:w01-180214-StartTime:11-CategoryCode:PS-About : LabWeek01 
+Week:w01-180214-StartTime:11-CategoryCode:PS-About : LabWeek01 Week:w01-180214-StartTime:11-CategoryCode:PS-About : LabWeek01 
+
+
+

@@ -1,0 +1,16 @@
+Week:w02-170221-StartTime:10-CategoryCode:DS-About : Security And Protection from: Lecturer
+Week:w02-170221-StartTime:10-CategoryCode:DS-About : Security And Protection from: Lecturer
+Week:w02-170221-StartTime:10-CategoryCode:DS-About : Security And Protection from: Lecturer
+Week:w02-170221-StartTime:10-CategoryCode:DS-About : Security And Protection from: Lecturer
+Week:w02-170223-StartTime:10-CategoryCode:DS-About : Digital Signature,Ahbeng and Encryption from: Lecturer
+Week:w02-170223-StartTime:10-CategoryCode:DS-About : Digital Signature,Ahbeng and Encryption from: Lecturer
+Week:w02-170223-StartTime:10-CategoryCode:DS-About : Digital Signature,Ahbeng and Encryption from: Lecturer
+Week:w02-170223-StartTime:10-CategoryCode:DS-About : Digital Signature,Ahbeng and Encryption from: Lecturer
+Week:w02-170223-StartTime:22-CategoryCode:PS-About : LabWeek02
+Week:w02-170223-StartTime:22-CategoryCode:PS-About : LabWeek02
+Week:w02-170224-StartTime:13-CategoryCode:PS-About : LabWeek02 
+Week:w02-170224-StartTime:22-CategoryCode:PS-About : LabWeek02 
+Week:w02-170224-StartTime:22-CategoryCode:PS-About : LabWeek02 
+Week:w02-170225-StartTime:11-CategoryCode:PS-About : LabWeek02 
+Week:w02-170225-StartTime:11-CategoryCode:PS-About : LabWeek02 
+

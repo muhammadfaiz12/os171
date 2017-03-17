@@ -1,0 +1,11 @@
+Week:w02-170314-StartTime:10-CategoryCode:DS-About : Memory from: Lecturer
+Week:w02-170314-StartTime:10-CategoryCode:DS-About : Memory from: Lecturer
+Week:w02-170314-StartTime:10-CategoryCode:DS-About : Memory from: Lecturer
+Week:w02-170314-StartTime:10-CategoryCode:DS-About : Memory from: Lecturer
+Week:w02-170316-StartTime:22-CategoryCode:PS-About : LabWeek05
+Week:w02-170316-StartTime:22-CategoryCode:PS-About : LabWeek05
+Week:w02-170317-StartTime:13-CategoryCode:PS-About : LabWeek05 
+Week:w02-170317-StartTime:22-CategoryCode:PS-About : LabWeek05 
+Week:w02-170317-StartTime:22-CategoryCode:PS-About : LabWeek05 
+Week:w02-170318-StartTime:11-CategoryCode:PS-About : LabWeek05 
+

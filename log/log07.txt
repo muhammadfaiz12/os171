@@ -1,0 +1,13 @@
+Week:w07-170418-StartTime:10-CategoryCode:DS-About : Syncronization from: Lecturer
+Week:w07-170418-StartTime:10-CategoryCode:DS-About : Syncronization from: Lecturer
+Week:w07-170418-StartTime:10-CategoryCode:DS-About : Syncronization from: Lecturer
+Week:w07-170418-StartTime:10-CategoryCode:DS-About : Syncronization from: Lecturer
+Week:w07-170420-StartTime:10-CategoryCode:DS-About : CPU Scheduling: Lecturer from: Lecturer
+Week:w07-170420-StartTime:10-CategoryCode:DS-About : CPU Scheduling: Lecturer from: Lecturer
+Week:w07-170420-StartTime:10-CategoryCode:DS-About : CPU Scheduling: Lecturer from: Lecturer
+Week:w07-170420-StartTime:10-CategoryCode:DS-About : CPU Scheduling: Lecturer from: Lecturer
+Week:w07-170422-StartTime:11-CategoryCode:PS-About : LabWeek07 
+Week:w07-170422-StartTime:11-CategoryCode:PS-About : LabWeek07 
+Week:w07-170422-StartTime:11-CategoryCode:PS-About : LabWeek07 
+Week:w07-170422-StartTime:11-CategoryCode:PS-About : LabWeek07 
+
